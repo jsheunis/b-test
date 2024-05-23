@@ -1,7 +1,3 @@
-apt-get update && apt-get install -y \
-    build-essential \
-    ghostscript
-
 wget https://mirrors.sarata.com/gnu/gsl/gsl-2.7.tar.gz && \
     tar -zxvf gsl-2.7.tar.gz && \
     cd gsl-2.7 && \
